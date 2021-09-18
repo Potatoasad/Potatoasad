@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I'm a graduate student in Physics working on creating precision tests of theories beyond Einstein's theory of General Relativity, by looking at specific frequencies in the gravitational waves produced by black hole mergers. 
+- 💻 I'm a big fan of the Julia programming language, and end up doing most of my numerical work there only. 
+
 
 <!--
 **Potatoasad/Potatoasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
